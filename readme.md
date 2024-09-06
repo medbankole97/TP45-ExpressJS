@@ -1,3 +1,8 @@
+# TP45-ExpressJS
+
+## Description
+
+C'est une application web de gestion de projet permettant de gérer les employés, les tâches, et les assignations entre eux. L'application est développée avec Node.js et Express.js. Elle inclut des fonctionnalités CRUD (Créer, Lire, Mettre à jour, Supprimer) pour les employés et les tâches, ainsi que des fonctionnalités d'assignation et de retrait des tâches aux employés.
 
 
 ## Prérequis
@@ -26,7 +31,7 @@ Suivez ces étapes pour configurer le projet sur votre machine locale :
 1. **Clonez le repository :**
 
     ```bash
-    https://github.com/medbankole97/TP45-exercice.git
+   https://github.com/medbankole97/TP45-ExpressJS.git
     ```
 
 2. **Accédez au dossier du projet :**
