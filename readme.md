@@ -15,7 +15,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
   
   
    ```express
-    npm install express
+  npm install express
     ```
   ```body-parser
   npm install body-parser
@@ -37,7 +37,7 @@ Suivez ces étapes pour configurer le projet sur votre machine locale :
 2. **Accédez au dossier du projet :**
 
     ```bash
-    cd TP45-exercice
+   cd TP45-ExpressJS
     ```
 
 ## Utilisation
@@ -51,8 +51,8 @@ npm start
 
 ## Modélisation UML
 
-![Modélisation](exercieTp45.png)
+![Modélisation](assets\image\exercieTp45.png)
 
 
-## Autheur
+## Auteur
 [Mohamed Bankolé](https://github.com/medbankole97)
