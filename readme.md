@@ -51,7 +51,7 @@ npm start
 
 ## Modélisation UML
 
-![Modélisation](assets\image\exercieTp45.png)
+![Modélisation](assets/image/exercieTp45.png)
 
 
 ## Auteur
